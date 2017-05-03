@@ -1,0 +1,16 @@
+E:\软件开发\GMAP\greatmaps_a0085f541997\Testing\TemplatedBinding\bin\Debug\TemplatedBinding.exe
+E:\软件开发\GMAP\greatmaps_a0085f541997\Testing\TemplatedBinding\bin\Debug\TemplatedBinding.pdb
+E:\软件开发\GMAP\greatmaps_a0085f541997\Testing\TemplatedBinding\bin\Debug\GMap.NET.Core.dll
+E:\软件开发\GMAP\greatmaps_a0085f541997\Testing\TemplatedBinding\bin\Debug\GMap.NET.WindowsPresentation.dll
+E:\软件开发\GMAP\greatmaps_a0085f541997\Testing\TemplatedBinding\bin\Debug\GMap.NET.Core.pdb
+E:\软件开发\GMAP\greatmaps_a0085f541997\Testing\TemplatedBinding\bin\Debug\GMap.NET.WindowsPresentation.pdb
+E:\软件开发\GMAP\greatmaps_a0085f541997\Testing\TemplatedBinding\obj\Debug\TemplatedBinding.csprojResolveAssemblyReference.cache
+E:\软件开发\GMAP\greatmaps_a0085f541997\Testing\TemplatedBinding\obj\Debug\Window1.baml
+E:\软件开发\GMAP\greatmaps_a0085f541997\Testing\TemplatedBinding\obj\Debug\Window1.g.cs
+E:\软件开发\GMAP\greatmaps_a0085f541997\Testing\TemplatedBinding\obj\Debug\App.g.cs
+E:\软件开发\GMAP\greatmaps_a0085f541997\Testing\TemplatedBinding\obj\Debug\TemplatedBinding_MarkupCompile.cache
+E:\软件开发\GMAP\greatmaps_a0085f541997\Testing\TemplatedBinding\obj\Debug\TemplatedBinding.g.resources
+E:\软件开发\GMAP\greatmaps_a0085f541997\Testing\TemplatedBinding\obj\Debug\TemplatedBinding.Properties.Resources.resources
+E:\软件开发\GMAP\greatmaps_a0085f541997\Testing\TemplatedBinding\obj\Debug\TemplatedBinding.csproj.GenerateResource.Cache
+E:\软件开发\GMAP\greatmaps_a0085f541997\Testing\TemplatedBinding\obj\Debug\TemplatedBinding.exe
+E:\软件开发\GMAP\greatmaps_a0085f541997\Testing\TemplatedBinding\obj\Debug\TemplatedBinding.pdb

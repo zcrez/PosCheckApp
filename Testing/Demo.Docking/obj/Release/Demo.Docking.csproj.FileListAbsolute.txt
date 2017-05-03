@@ -1,0 +1,17 @@
+E:\软件开发\GMAP\greatmaps_a0085f541997\Testing\Demo.Docking\bin\Release\Demo.Docking.exe.config
+E:\软件开发\GMAP\greatmaps_a0085f541997\Testing\Demo.Docking\bin\Release\Demo.Docking.exe
+E:\软件开发\GMAP\greatmaps_a0085f541997\Testing\Demo.Docking\bin\Release\AvalonDock.dll
+E:\软件开发\GMAP\greatmaps_a0085f541997\Testing\Demo.Docking\bin\Release\AvalonDock.Themes.dll
+E:\软件开发\GMAP\greatmaps_a0085f541997\Testing\Demo.Docking\bin\Release\GMap.NET.Core.dll
+E:\软件开发\GMAP\greatmaps_a0085f541997\Testing\Demo.Docking\bin\Release\GMap.NET.WindowsPresentation.dll
+E:\软件开发\GMAP\greatmaps_a0085f541997\Testing\Demo.Docking\bin\Release\GMap.NET.WindowsPresentation.xml
+E:\软件开发\GMAP\greatmaps_a0085f541997\Testing\Demo.Docking\bin\Release\AvalonDock.xml
+E:\软件开发\GMAP\greatmaps_a0085f541997\Testing\Demo.Docking\obj\Release\Demo.Docking.csprojResolveAssemblyReference.cache
+E:\软件开发\GMAP\greatmaps_a0085f541997\Testing\Demo.Docking\obj\Release\MainWindow.baml
+E:\软件开发\GMAP\greatmaps_a0085f541997\Testing\Demo.Docking\obj\Release\MainWindow.g.cs
+E:\软件开发\GMAP\greatmaps_a0085f541997\Testing\Demo.Docking\obj\Release\App.g.cs
+E:\软件开发\GMAP\greatmaps_a0085f541997\Testing\Demo.Docking\obj\Release\Demo.Docking_MarkupCompile.cache
+E:\软件开发\GMAP\greatmaps_a0085f541997\Testing\Demo.Docking\obj\Release\Demo.Docking.g.resources
+E:\软件开发\GMAP\greatmaps_a0085f541997\Testing\Demo.Docking\obj\Release\Sample3.Properties.Resources.resources
+E:\软件开发\GMAP\greatmaps_a0085f541997\Testing\Demo.Docking\obj\Release\Demo.Docking.csproj.GenerateResource.Cache
+E:\软件开发\GMAP\greatmaps_a0085f541997\Testing\Demo.Docking\obj\Release\Demo.Docking.exe

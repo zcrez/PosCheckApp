@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="GMap.NET vs9">
+</Property><Property Name="解决方案文件" Value="E:\软件开发\GMAP\greatmaps_a0085f541997\GMap.NET vs9.sln">
+</Property><Property Name="Date" Value="2017年5月3日">
+</Property><Property Name="Time" Value="0:40">
+</Property><Property Name="日志号" Value="2">
+</Property></Properties><Event ErrorLevel="0" Project="Demo.WindowsForms" Source="Demo.WindowsForms\Demo.WindowsForms.csproj" Description="项目文件不需要转换。">
+</Event><Event ErrorLevel="3" Project="Demo.WindowsForms" Source="Demo.WindowsForms\Demo.WindowsForms.csproj" Description="无需转换">
+</Event><Event ErrorLevel="0" Project="Demo.WindowsPresentation" Source="Demo.WindowsPresentation\Demo.WindowsPresentation.csproj" Description="项目文件不需要转换。">
+</Event><Event ErrorLevel="3" Project="Demo.WindowsPresentation" Source="Demo.WindowsPresentation\Demo.WindowsPresentation.csproj" Description="无需转换">
+</Event><Event ErrorLevel="0" Project="GMap.NET.Core" Source="GMap.NET.Core\GMap.NET.Core.csproj" Description="项目文件不需要转换。">
+</Event><Event ErrorLevel="3" Project="GMap.NET.Core" Source="GMap.NET.Core\GMap.NET.Core.csproj" Description="无需转换">
+</Event><Event ErrorLevel="0" Project="GMap.NET.WindowsForms" Source="GMap.NET.WindowsForms\GMap.NET.WindowsForms.csproj" Description="项目文件不需要转换。">
+</Event><Event ErrorLevel="3" Project="GMap.NET.WindowsForms" Source="GMap.NET.WindowsForms\GMap.NET.WindowsForms.csproj" Description="无需转换">
+</Event><Event ErrorLevel="0" Project="GMap.NET.WindowsPresentation" Source="GMap.NET.WindowsPresentation\GMap.NET.WindowsPresentation.csproj" Description="项目文件不需要转换。">
+</Event><Event ErrorLevel="3" Project="GMap.NET.WindowsPresentation" Source="GMap.NET.WindowsPresentation\GMap.NET.WindowsPresentation.csproj" Description="无需转换">
+</Event><Event ErrorLevel="0" Project="TemplatedBinding" Source="Testing\TemplatedBinding\TemplatedBinding.csproj" Description="项目文件不需要转换。">
+</Event><Event ErrorLevel="3" Project="TemplatedBinding" Source="Testing\TemplatedBinding\TemplatedBinding.csproj" Description="无需转换">
+</Event><Event ErrorLevel="0" Project="GMap.NET.WindowsMobile" Source="GMap.NET.WindowsMobile\GMap.NET.WindowsMobile.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="GMap.NET.WindowsMobile" Source="GMap.NET.WindowsMobile\GMap.NET.WindowsMobile.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Demo.WindowsMobile" Source="Demo.WindowsMobile\Demo.WindowsMobile.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="Demo.WindowsMobile" Source="Demo.WindowsMobile\Demo.WindowsMobile.csproj" Description="Converted">
+</Event><Event ErrorLevel="2" Project="WPF-GMapControlNew" Source="Testing\WPF-GMapControlNew\WPF-GMapControlNew.csproj" Description="无法打开项目文件以执行升级操作。">
+</Event><Event ErrorLevel="0" Project="Demo.StreetView" Source="Testing\Demo.StreetView\Demo.StreetView.csproj" Description="项目文件不需要转换。">
+</Event><Event ErrorLevel="3" Project="Demo.StreetView" Source="Testing\Demo.StreetView\Demo.StreetView.csproj" Description="无需转换">
+</Event><Event ErrorLevel="0" Project="BigMapMaker" Source="Testing\BigMapMaker\BigMapMaker.csproj" Description="项目文件不需要转换。">
+</Event><Event ErrorLevel="3" Project="BigMapMaker" Source="Testing\BigMapMaker\BigMapMaker.csproj" Description="无需转换">
+</Event><Event ErrorLevel="0" Project="Demo.Clouds" Source="Testing\Demo.Clouds\Demo.Clouds.csproj" Description="项目文件不需要转换。">
+</Event><Event ErrorLevel="3" Project="Demo.Clouds" Source="Testing\Demo.Clouds\Demo.Clouds.csproj" Description="无需转换">
+</Event><Event ErrorLevel="0" Project="GMap.NET - Hot Build" Source="Setup\GMap.NET - Hot Build\GMap.NET - Hot Build.csproj" Description="项目文件不需要转换。">
+</Event><Event ErrorLevel="3" Project="GMap.NET - Hot Build" Source="Setup\GMap.NET - Hot Build\GMap.NET - Hot Build.csproj" Description="无需转换">
+</Event><Event ErrorLevel="0" Project="Demo.Docking" Source="Testing\Demo.Docking\Demo.Docking.csproj" Description="项目文件不需要转换。">
+</Event><Event ErrorLevel="3" Project="Demo.Docking" Source="Testing\Demo.Docking\Demo.Docking.csproj" Description="无需转换">
+</Event><Event ErrorLevel="0" Project="ConsoleApplication" Source="Testing\ConsoleApplication\ConsoleApplication.csproj" Description="项目文件不需要转换。">
+</Event><Event ErrorLevel="3" Project="ConsoleApplication" Source="Testing\ConsoleApplication\ConsoleApplication.csproj" Description="无需转换">
+</Event><Event ErrorLevel="0" Project="BingWpfFusion" Source="Testing\BingWpfFusion\BingWpfFusion.csproj" Description="项目文件不需要转换。">
+</Event><Event ErrorLevel="3" Project="BingWpfFusion" Source="Testing\BingWpfFusion\BingWpfFusion.csproj" Description="无需转换">
+</Event><Event ErrorLevel="0" Project="PosCheckApp" Source="PosCheckApp\PosCheckApp.csproj" Description="项目文件不需要转换。">
+</Event><Event ErrorLevel="3" Project="PosCheckApp" Source="PosCheckApp\PosCheckApp.csproj" Description="无需转换">
+</Event><Event ErrorLevel="0" Project="" Source="GMap.NET vs9.sln" Description="解决方案文件不需要转换。">
+</Event><Event ErrorLevel="3" Project="" Source="GMap.NET vs9.sln" Description="无需转换">
+</Event></UpgradeLog>

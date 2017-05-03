@@ -1,0 +1,12 @@
+E:\软件开发\GMAP\greatmaps_a0085f541997\Build\Release-NETv2.0\Demo.WindowsForms.exe.config
+E:\软件开发\GMAP\greatmaps_a0085f541997\Build\Release-NETv2.0\Demo.WindowsForms.exe
+E:\软件开发\GMAP\greatmaps_a0085f541997\Demo.WindowsForms\obj\Release\Demo.WindowsForms.csprojResolveAssemblyReference.cache
+E:\软件开发\GMAP\greatmaps_a0085f541997\Demo.WindowsForms\obj\Release\BSE.Windows.Forms.Panel.resources
+E:\软件开发\GMAP\greatmaps_a0085f541997\Demo.WindowsForms\obj\Release\BSE.Windows.Forms.XPanderPanel.resources
+E:\软件开发\GMAP\greatmaps_a0085f541997\Demo.WindowsForms\obj\Release\BSE.Windows.Forms.XPanderPanelList.resources
+E:\软件开发\GMAP\greatmaps_a0085f541997\Demo.WindowsForms\obj\Release\Demo.WindowsForms.MainForm.resources
+E:\软件开发\GMAP\greatmaps_a0085f541997\Demo.WindowsForms\obj\Release\Demo.WindowsForms.Forms.Message.resources
+E:\软件开发\GMAP\greatmaps_a0085f541997\Demo.WindowsForms\obj\Release\Demo.WindowsForms.StaticImage.resources
+E:\软件开发\GMAP\greatmaps_a0085f541997\Demo.WindowsForms\obj\Release\Demo.WindowsForms.Properties.Resources.resources
+E:\软件开发\GMAP\greatmaps_a0085f541997\Demo.WindowsForms\obj\Release\Demo.WindowsForms.csproj.GenerateResource.Cache
+E:\软件开发\GMAP\greatmaps_a0085f541997\Demo.WindowsForms\obj\Release\Demo.WindowsForms.exe

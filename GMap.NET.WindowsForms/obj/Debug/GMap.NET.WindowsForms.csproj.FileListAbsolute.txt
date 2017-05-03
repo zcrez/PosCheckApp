@@ -7,3 +7,4 @@ E:\软件开发\GMAP\greatmaps_a0085f541997\GMap.NET.WindowsForms\obj\Debug\Syst
 E:\软件开发\GMAP\greatmaps_a0085f541997\GMap.NET.WindowsForms\obj\Debug\GMap.NET.WindowsForms.csproj.GenerateResource.Cache
 E:\软件开发\GMAP\greatmaps_a0085f541997\GMap.NET.WindowsForms\obj\Debug\GMap.NET.WindowsForms.dll
 E:\软件开发\GMAP\greatmaps_a0085f541997\GMap.NET.WindowsForms\obj\Debug\GMap.NET.WindowsForms.pdb
+E:\软件开发\GMAP\greatmaps_a0085f541997\GMap.NET.WindowsForms\obj\Debug\GMap.NET.WindowsForms.csprojResolveAssemblyReference.cache

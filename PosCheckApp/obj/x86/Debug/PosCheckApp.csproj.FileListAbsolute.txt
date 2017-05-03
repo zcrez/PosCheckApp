@@ -1,0 +1,14 @@
+E:\软件开发\GMAP\greatmaps_a0085f541997\PosCheckApp\bin\Debug\PosCheckApp.exe
+E:\软件开发\GMAP\greatmaps_a0085f541997\PosCheckApp\bin\Debug\PosCheckApp.pdb
+E:\软件开发\GMAP\greatmaps_a0085f541997\PosCheckApp\bin\Debug\GMap.NET.Core.dll
+E:\软件开发\GMAP\greatmaps_a0085f541997\PosCheckApp\bin\Debug\GMap.NET.WindowsForms.dll
+E:\软件开发\GMAP\greatmaps_a0085f541997\PosCheckApp\bin\Debug\GMap.NET.WindowsPresentation.dll
+E:\软件开发\GMAP\greatmaps_a0085f541997\PosCheckApp\bin\Debug\GMap.NET.Core.pdb
+E:\软件开发\GMAP\greatmaps_a0085f541997\PosCheckApp\bin\Debug\GMap.NET.WindowsForms.pdb
+E:\软件开发\GMAP\greatmaps_a0085f541997\PosCheckApp\bin\Debug\GMap.NET.WindowsPresentation.pdb
+E:\软件开发\GMAP\greatmaps_a0085f541997\PosCheckApp\obj\x86\Debug\PosCheckApp.csprojResolveAssemblyReference.cache
+E:\软件开发\GMAP\greatmaps_a0085f541997\PosCheckApp\obj\x86\Debug\PosCheckApp.MainMap.resources
+E:\软件开发\GMAP\greatmaps_a0085f541997\PosCheckApp\obj\x86\Debug\PosCheckApp.Properties.Resources.resources
+E:\软件开发\GMAP\greatmaps_a0085f541997\PosCheckApp\obj\x86\Debug\PosCheckApp.csproj.GenerateResource.Cache
+E:\软件开发\GMAP\greatmaps_a0085f541997\PosCheckApp\obj\x86\Debug\PosCheckApp.exe
+E:\软件开发\GMAP\greatmaps_a0085f541997\PosCheckApp\obj\x86\Debug\PosCheckApp.pdb

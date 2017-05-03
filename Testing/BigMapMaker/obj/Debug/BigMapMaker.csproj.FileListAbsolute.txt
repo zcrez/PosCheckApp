@@ -1,0 +1,11 @@
+E:\软件开发\GMAP\greatmaps_a0085f541997\Testing\BigMapMaker\bin\Debug\BigMapMaker.exe
+E:\软件开发\GMAP\greatmaps_a0085f541997\Testing\BigMapMaker\bin\Debug\BigMapMaker.pdb
+E:\软件开发\GMAP\greatmaps_a0085f541997\Testing\BigMapMaker\bin\Debug\GMap.NET.Core.dll
+E:\软件开发\GMAP\greatmaps_a0085f541997\Testing\BigMapMaker\bin\Debug\GMap.NET.WindowsForms.dll
+E:\软件开发\GMAP\greatmaps_a0085f541997\Testing\BigMapMaker\bin\Debug\GMap.NET.WindowsPresentation.dll
+E:\软件开发\GMAP\greatmaps_a0085f541997\Testing\BigMapMaker\bin\Debug\GMap.NET.Core.pdb
+E:\软件开发\GMAP\greatmaps_a0085f541997\Testing\BigMapMaker\bin\Debug\GMap.NET.WindowsForms.pdb
+E:\软件开发\GMAP\greatmaps_a0085f541997\Testing\BigMapMaker\bin\Debug\GMap.NET.WindowsPresentation.pdb
+E:\软件开发\GMAP\greatmaps_a0085f541997\Testing\BigMapMaker\obj\Debug\BigMapMaker.csprojResolveAssemblyReference.cache
+E:\软件开发\GMAP\greatmaps_a0085f541997\Testing\BigMapMaker\obj\Debug\BigMapMaker.exe
+E:\软件开发\GMAP\greatmaps_a0085f541997\Testing\BigMapMaker\obj\Debug\BigMapMaker.pdb

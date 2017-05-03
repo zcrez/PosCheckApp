@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(MainMap));
             this.panel1 = new System.Windows.Forms.Panel();
             this.panel3 = new System.Windows.Forms.Panel();
             this.panel4 = new System.Windows.Forms.Panel();
@@ -56,6 +57,18 @@
             this.button2 = new System.Windows.Forms.Button();
             this.buttonZoomUp = new System.Windows.Forms.Button();
             this.mappanel = new System.Windows.Forms.Panel();
+            this.toolStrip1 = new System.Windows.Forms.ToolStrip();
+            this.toolStripDropDownButton1 = new System.Windows.Forms.ToolStripDropDownButton();
+            this.新建工程ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.打开工程ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.保存工程ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.toolStripSeparator1 = new System.Windows.Forms.ToolStripSeparator();
+            this.数据上传ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.PosImport = new System.Windows.Forms.ToolStripButton();
+            this.toolStripButton2 = new System.Windows.Forms.ToolStripButton();
+            this.statusStrip1 = new System.Windows.Forms.StatusStrip();
+            this.localStatusLabel = new System.Windows.Forms.ToolStripStatusLabel();
+            this.toolStripProgressBar1 = new System.Windows.Forms.ToolStripProgressBar();
             this.gMapControl1 = new GMap.NET.WindowsForms.GMapControl();
             this.panel1.SuspendLayout();
             this.panel3.SuspendLayout();
@@ -65,6 +78,8 @@
             this.panel2.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.trackBar1)).BeginInit();
             this.mappanel.SuspendLayout();
+            this.toolStrip1.SuspendLayout();
+            this.statusStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
             // panel1
@@ -359,12 +374,112 @@
             // 
             // mappanel
             // 
+            this.mappanel.Controls.Add(this.toolStrip1);
+            this.mappanel.Controls.Add(this.statusStrip1);
             this.mappanel.Controls.Add(this.gMapControl1);
             this.mappanel.Dock = System.Windows.Forms.DockStyle.Fill;
             this.mappanel.Location = new System.Drawing.Point(0, 0);
             this.mappanel.Name = "mappanel";
             this.mappanel.Size = new System.Drawing.Size(676, 639);
             this.mappanel.TabIndex = 1;
+            // 
+            // toolStrip1
+            // 
+            this.toolStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.toolStripDropDownButton1,
+            this.PosImport,
+            this.toolStripButton2});
+            this.toolStrip1.Location = new System.Drawing.Point(0, 0);
+            this.toolStrip1.Name = "toolStrip1";
+            this.toolStrip1.Size = new System.Drawing.Size(676, 25);
+            this.toolStrip1.TabIndex = 2;
+            this.toolStrip1.Text = "toolStrip1";
+            // 
+            // toolStripDropDownButton1
+            // 
+            this.toolStripDropDownButton1.DisplayStyle = System.Windows.Forms.ToolStripItemDisplayStyle.Image;
+            this.toolStripDropDownButton1.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.新建工程ToolStripMenuItem,
+            this.打开工程ToolStripMenuItem,
+            this.保存工程ToolStripMenuItem,
+            this.toolStripSeparator1,
+            this.数据上传ToolStripMenuItem});
+            this.toolStripDropDownButton1.Image = ((System.Drawing.Image)(resources.GetObject("toolStripDropDownButton1.Image")));
+            this.toolStripDropDownButton1.ImageTransparentColor = System.Drawing.Color.Magenta;
+            this.toolStripDropDownButton1.Name = "toolStripDropDownButton1";
+            this.toolStripDropDownButton1.Size = new System.Drawing.Size(29, 22);
+            this.toolStripDropDownButton1.Text = "数据";
+            // 
+            // 新建工程ToolStripMenuItem
+            // 
+            this.新建工程ToolStripMenuItem.Name = "新建工程ToolStripMenuItem";
+            this.新建工程ToolStripMenuItem.Size = new System.Drawing.Size(160, 22);
+            this.新建工程ToolStripMenuItem.Text = "新建工程";
+            // 
+            // 打开工程ToolStripMenuItem
+            // 
+            this.打开工程ToolStripMenuItem.Name = "打开工程ToolStripMenuItem";
+            this.打开工程ToolStripMenuItem.Size = new System.Drawing.Size(160, 22);
+            this.打开工程ToolStripMenuItem.Text = "打开工程";
+            // 
+            // 保存工程ToolStripMenuItem
+            // 
+            this.保存工程ToolStripMenuItem.Name = "保存工程ToolStripMenuItem";
+            this.保存工程ToolStripMenuItem.Size = new System.Drawing.Size(160, 22);
+            this.保存工程ToolStripMenuItem.Text = "保存工程";
+            // 
+            // toolStripSeparator1
+            // 
+            this.toolStripSeparator1.Name = "toolStripSeparator1";
+            this.toolStripSeparator1.Size = new System.Drawing.Size(157, 6);
+            // 
+            // 数据上传ToolStripMenuItem
+            // 
+            this.数据上传ToolStripMenuItem.Name = "数据上传ToolStripMenuItem";
+            this.数据上传ToolStripMenuItem.Size = new System.Drawing.Size(160, 22);
+            this.数据上传ToolStripMenuItem.Text = "像控点数据上传";
+            // 
+            // PosImport
+            // 
+            this.PosImport.DisplayStyle = System.Windows.Forms.ToolStripItemDisplayStyle.Image;
+            this.PosImport.Image = ((System.Drawing.Image)(resources.GetObject("PosImport.Image")));
+            this.PosImport.ImageTransparentColor = System.Drawing.Color.Magenta;
+            this.PosImport.Name = "PosImport";
+            this.PosImport.Size = new System.Drawing.Size(23, 22);
+            this.PosImport.Text = "toolStripButton1";
+            this.PosImport.Click += new System.EventHandler(this.PosImport_Click);
+            // 
+            // toolStripButton2
+            // 
+            this.toolStripButton2.DisplayStyle = System.Windows.Forms.ToolStripItemDisplayStyle.Image;
+            this.toolStripButton2.Image = ((System.Drawing.Image)(resources.GetObject("toolStripButton2.Image")));
+            this.toolStripButton2.ImageTransparentColor = System.Drawing.Color.Magenta;
+            this.toolStripButton2.Name = "toolStripButton2";
+            this.toolStripButton2.Size = new System.Drawing.Size(23, 22);
+            this.toolStripButton2.Text = "toolStripButton2";
+            // 
+            // statusStrip1
+            // 
+            this.statusStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.localStatusLabel,
+            this.toolStripProgressBar1});
+            this.statusStrip1.Location = new System.Drawing.Point(0, 617);
+            this.statusStrip1.Name = "statusStrip1";
+            this.statusStrip1.Size = new System.Drawing.Size(676, 22);
+            this.statusStrip1.TabIndex = 1;
+            this.statusStrip1.Text = "statusStrip1";
+            // 
+            // localStatusLabel
+            // 
+            this.localStatusLabel.AutoSize = false;
+            this.localStatusLabel.Name = "localStatusLabel";
+            this.localStatusLabel.Size = new System.Drawing.Size(200, 17);
+            this.localStatusLabel.Text = "，";
+            // 
+            // toolStripProgressBar1
+            // 
+            this.toolStripProgressBar1.Name = "toolStripProgressBar1";
+            this.toolStripProgressBar1.Size = new System.Drawing.Size(100, 16);
             // 
             // gMapControl1
             // 
@@ -414,6 +529,11 @@
             this.panel2.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.trackBar1)).EndInit();
             this.mappanel.ResumeLayout(false);
+            this.mappanel.PerformLayout();
+            this.toolStrip1.ResumeLayout(false);
+            this.toolStrip1.PerformLayout();
+            this.statusStrip1.ResumeLayout(false);
+            this.statusStrip1.PerformLayout();
             this.ResumeLayout(false);
 
         }
@@ -449,6 +569,18 @@
         private System.Windows.Forms.TextBox textBoxLat;
         private System.Windows.Forms.Panel mappanel;
         private GMap.NET.WindowsForms.GMapControl gMapControl1;
+        private System.Windows.Forms.StatusStrip statusStrip1;
+        private System.Windows.Forms.ToolStripStatusLabel localStatusLabel;
+        private System.Windows.Forms.ToolStripProgressBar toolStripProgressBar1;
+        private System.Windows.Forms.ToolStrip toolStrip1;
+        private System.Windows.Forms.ToolStripDropDownButton toolStripDropDownButton1;
+        private System.Windows.Forms.ToolStripMenuItem 新建工程ToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem 打开工程ToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem 保存工程ToolStripMenuItem;
+        private System.Windows.Forms.ToolStripSeparator toolStripSeparator1;
+        private System.Windows.Forms.ToolStripMenuItem 数据上传ToolStripMenuItem;
+        private System.Windows.Forms.ToolStripButton PosImport;
+        private System.Windows.Forms.ToolStripButton toolStripButton2;
     }
 }
 
