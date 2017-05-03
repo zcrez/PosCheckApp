@@ -16,5 +16,5 @@ DEBUG;TRACE
 121958209079
 Controls\TrolleyTooltip.xaml;CustomMarkers\Circle.xaml;CustomMarkers\CustomMarkerRed.xaml;CustomMarkers\Cross.xaml;CustomMarkers\CustomMarkerDemo.xaml;CustomMarkers\Test.xaml;Windows\MainWindow.xaml;Windows\Message.xaml;
 
-False
+True
 

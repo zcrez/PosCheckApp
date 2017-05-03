@@ -2,4 +2,3 @@ E:\软件开发\GMAP\greatmaps_a0085f541997\GMap.NET.Core\bin\Release\GMap.NET.C
 E:\软件开发\GMAP\greatmaps_a0085f541997\GMap.NET.Core\obj\Release\GMap.NET.Properties.Resources.resources
 E:\软件开发\GMAP\greatmaps_a0085f541997\GMap.NET.Core\obj\Release\GMap.NET.Core.csproj.GenerateResource.Cache
 E:\软件开发\GMAP\greatmaps_a0085f541997\GMap.NET.Core\obj\Release\GMap.NET.Core.dll
-E:\软件开发\GMAP\greatmaps_a0085f541997\GMap.NET.Core\obj\Release\GMap.NET.Core.csprojResolveAssemblyReference.cache
